@@ -1,1 +1,1 @@
-# performance/spec/library test of AR SDKs
+# Test for AR SDKs
