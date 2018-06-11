@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/Kimjungmin/Library/Android/MAXSTARSDK_Android_3.4.1/Samples/MaxstARSample/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/Kimjungmin/Library/Android/MAXSTARSDK_Android_3.4.1/Samples/MaxstARSample/src/debug/shaders"/></dataSet></merger>

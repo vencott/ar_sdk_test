@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="ARTheme" parent="@android:style/Theme.Holo.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+
+    <style name="ARTheme_AppCompat" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+</resources>

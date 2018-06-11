@@ -1,0 +1,4 @@
+#Mon Jan 08 15:53:49 KST 2018
+base.0=/Users/Kimjungmin/Library/Android/MAXSTARSDK_Android_3.4.1/Samples/MaxstARSample/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
